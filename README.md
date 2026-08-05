@@ -14,8 +14,8 @@ This repository serves as my organized workspace for all course requirements, in
 ## 👤 Student Information
 
 - **Name:** MARY LAWRANCE ESTABILLO BALANE
-- **Course/Section:** (Your course & section)
-- **Instructor:** (Instructor's name)
+- **Course/Section:** (BSIT 4K)
+- **Instructor:** (JENKIELYN TORRES)
 - **School Year:** 2026–2027
 
 ## 📂 Repository Structure
