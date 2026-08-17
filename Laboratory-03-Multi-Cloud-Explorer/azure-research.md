@@ -12,7 +12,7 @@ Azure provides cloud infrastructure through regions and availability options aro
 
 The Azure Portal is a web-based interface used to create, configure, monitor, and manage Azure cloud resources.
 
-## Four Core Services
+# Four Core Services
 
 1. **Azure Virtual Machines** – Provides virtual machines for running applications and operating systems.
 2. **Azure Blob Storage** – Provides object storage for files and unstructured data.
