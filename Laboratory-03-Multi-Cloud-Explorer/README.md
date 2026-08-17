@@ -8,25 +8,25 @@ This laboratory activity explores and compares Amazon Web Services (AWS), Micros
 
 The Linux operating system was identified using the `cat /etc/os-release` command.
 
-![Operating System](linux-os.png)
+![Operating System]
 
 ## CPU Information
 
 CPU information was collected using the `lscpu` command.
 
-![CPU Information](linux-cpu.png)
+![CPU Information]
 
 ## Memory
 
 Memory information was collected using the `free -h` command.
 
-![Memory Information](linux-memory.png)
+![Memory Information]
 
 ## Disk Space
 
 Disk space information was collected using the `df -h` command.
 
-![Disk Space](linux-disk.png)
+![Disk Space]
 
 ## Cloud Hosting Options
 
