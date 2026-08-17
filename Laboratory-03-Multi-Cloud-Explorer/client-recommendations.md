@@ -4,7 +4,7 @@
 
 ### Recommended Platform: AWS
 
-AWS is a suitable choice for the startup because it provides many cloud services that can support a mobile application. The company can start with the resources it needs and increase them as the application grows. AWS also provides services for computing, storage, and databases.
+AWS is a suitable choice for the startup because it provides many cloud services that can support a mobile application as it grows. The company can start with smaller resources and increase capacity when demand increases. AWS also provides services for computing, storage, databases, and application networking. This flexibility can help a startup manage its infrastructure while controlling resource usage.
 
 ### Possible Services
 
@@ -18,13 +18,13 @@ AWS is a suitable choice for the startup because it provides many cloud services
 
 ### Recommended Platform: Microsoft Azure
 
-Microsoft Azure is the most appropriate choice for the university because it already uses Windows Server, Microsoft 365, and Active Directory. Azure provides strong integration with Microsoft technologies and can support the migration of existing services to the cloud. This can make the transition easier to manage.
+Microsoft Azure is the most appropriate choice because the university already uses Windows Server, Microsoft 365, and Active Directory. Azure provides strong integration with Microsoft's ecosystem and identity services. The university can use Azure services to extend its existing infrastructure into the cloud. This can make migration and identity management easier for an organization already using Microsoft technologies.
 
 ### Possible Services
 
 - Azure Virtual Machines
 - Microsoft Entra ID
-- Azure SQL Database
+- Azure Storage
 
 ---
 
@@ -32,13 +32,13 @@ Microsoft Azure is the most appropriate choice for the university because it alr
 
 ### Recommended Platform: Google Cloud
 
-Google Cloud is a strong choice for the AI research company because it provides services for Artificial Intelligence and Machine Learning. The company can use cloud computing resources for demanding workloads and managed AI services for developing applications. Google Cloud also provides Kubernetes capabilities.
+Google Cloud is a strong choice for an AI research company because of its AI, machine learning, data, and high-performance computing capabilities. The company can use Google Cloud infrastructure to run demanding workloads and develop machine learning applications. Google Cloud also provides services that support modern AI development and data processing.
 
 ### Possible Services
 
 - Compute Engine
+- Google Kubernetes Engine
 - Vertex AI
-- Google Kubernetes Engine (GKE)
 
 ---
 
@@ -46,14 +46,13 @@ Google Cloud is a strong choice for the AI research company because it provides 
 
 ### Recommended Platform: AWS
 
-AWS is a suitable choice for the global e-commerce company because it provides scalable infrastructure for applications serving customers around the world. The company can use load balancing and automatic scaling to handle changes in traffic. AWS also provides storage and database services for e-commerce applications.
+AWS is a strong choice for a global e-commerce company because it provides extensive global infrastructure and services designed for scalable applications. The company can distribute applications across multiple Availability Zones and use load balancing and automatic scaling to handle changing demand. These capabilities can help maintain availability when traffic increases.
 
 ### Possible Services
 
 - Amazon EC2
 - Elastic Load Balancing
-- Amazon S3
-- Amazon RDS
+- Amazon EC2 Auto Scaling
 
 ---
 
@@ -61,9 +60,9 @@ AWS is a suitable choice for the global e-commerce company because it provides s
 
 | Business Requirement | Recommended Platform | Justification |
 |---|---|---|
-| Startup Company | AWS | Wide range of services and scalable infrastructure |
-| Enterprise Organization | AWS | Broad service portfolio and global infrastructure |
-| Microsoft Environment | Azure | Strong Microsoft integration |
-| AI / Machine Learning | GCP | Strong AI and ML capabilities |
-| Kubernetes Deployment | GCP | Strong Kubernetes ecosystem |
-| Global Web Application | AWS | Scalable global infrastructure |
+| Startup Company | AWS | Broad services and flexible scaling options |
+| Enterprise Organization | AWS | Large service portfolio and mature enterprise capabilities |
+| Microsoft Environment | Azure | Strong integration with Microsoft technologies |
+| AI / Machine Learning | Google Cloud | Strong AI, ML, and data capabilities |
+| Kubernetes Deployment | Google Cloud | Google Kubernetes Engine provides managed Kubernetes |
+| Global Web Application | AWS | Broad global infrastructure and scalable services |
